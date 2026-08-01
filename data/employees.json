@@ -1,0 +1,6 @@
+[
+  { "id": "E001", "full_name": "Alice Chen",    "location_code": "US-SF",  "country": "US" },
+  { "id": "E002", "full_name": "Ravi Kumar",    "location_code": "IN-BLR", "country": "IN" },
+  { "id": "E003", "full_name": "Lena Schulz",   "location_code": "DE-MUC", "country": "DE" },
+  { "id": "E004", "full_name": "James Bennett", "location_code": "UK-LON", "country": "UK" }
+]
